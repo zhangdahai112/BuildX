@@ -4,7 +4,7 @@ import { Badge } from '../ui/badge';
 import { 
   Home, 
   FolderOpen, 
-  Template, 
+  FileText, 
   Rocket, 
   Settings, 
   BarChart3, 

@@ -18,7 +18,7 @@ export const Sidebar = ({ activeTab, onTabChange }) => {
   const menuItems = [
     { id: 'dashboard', label: 'Dashboard', icon: Home },
     { id: 'projects', label: 'Projects', icon: FolderOpen },
-    { id: 'templates', label: 'Templates', icon: Template, badge: 'New' },
+    { id: 'templates', label: 'Templates', icon: FileText, badge: 'New' },
     { id: 'deployments', label: 'Deployments', icon: Rocket },
     { id: 'ai-models', label: 'AI Models', icon: Cpu },
     { id: 'analytics', label: 'Analytics', icon: BarChart3 },
